@@ -1,0 +1,2 @@
+# MinecraftBot
+MinecraftBot - miner
