@@ -1,6 +1,11 @@
 # MinecraftBot
 MinecraftBot - miner
 
+# Install dependencies
+```npm install mineflayer mineflayer-pathfinder mineflayer-collectblock minecraft-data mineflayer-viewer```
+``` ```
+
+
 # Commands
 ```!wood``` - for mining only wood (any type nearby bot)
 ```!stop_wood``` - stop mining iron
@@ -12,6 +17,8 @@ MinecraftBot - miner
 ```!stop_iron``` - stop mining iron
 
 ```!wibm``` - Bot gives you for example: ťažím hlinu
+```!go_home``` - bot will come nearby chest
+```!come_here``` - bot will come to you or player who entered this command
 
 - for teleport
 - ```!come_to <MojaNovaPozicia>``` - example: !come_to 107, 72, 401
