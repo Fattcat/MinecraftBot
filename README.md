@@ -1,6 +1,9 @@
 # MinecraftBot
 MinecraftBot - miner
 
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Fattcat.MinecraftBot" alt="Visitor Count">
+
 # Install dependencies
 ```npm install mineflayer mineflayer-pathfinder mineflayer-collectblock minecraft-data mineflayer-viewer```
 ``` ```
